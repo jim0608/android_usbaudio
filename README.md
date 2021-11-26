@@ -30,6 +30,8 @@ data[2] = (rate >> 16);
 ## 感谢以下相关资料，对我的帮助
 - [Universal Serial Bus Device Class Definition for Audio Devices 1.0](https://www.usb.org/sites/default/files/audio10.pdf)
 - [UAC规范-USB音频](http://www.usbzh.com/article/forum-1.html)  这是对UAC相关协议部分中文资料
+- [Android无驱usb音频实现](https://www.jianshu.com/p/1cae2d57ddf4)
+- [Android从USB声卡录制高质量音频-----使用libusb读取USB声卡数据](https://blog.csdn.net/linzekai100/article/details/84334621)
 
 ## 该项目是我个人第一次写c/c++相关代码，有不合理的望大家可以指正，谢谢
 
