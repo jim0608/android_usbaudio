@@ -4,6 +4,7 @@
 /gradle
 /app/.cxx
 /app/.externalNativeBuild
+/app/build
 /app/src/main/libs
 /app/src/main/obj
 *.iml
