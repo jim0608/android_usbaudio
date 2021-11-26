@@ -29,8 +29,7 @@ data[2] = (rate >> 16);
 
 ## 感谢以下相关资料，对我的帮助
 - [Universal Serial Bus Device Class Definition for Audio Devices 1.0](https://www.usb.org/sites/default/files/audio10.pdf)
-- 
-- [UAC规范（USB音频](http://www.usbzh.com/article/forum-1.html),这是对UAC相关协议部分中文资料
+- [UAC规范-USB音频](http://www.usbzh.com/article/forum-1.html)  这是对UAC相关协议部分中文资料
 
 ## 该项目是我个人第一次写c/c++相关代码，有不合理的望大家可以指正，谢谢
 
